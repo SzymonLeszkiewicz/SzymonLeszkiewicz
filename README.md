@@ -1,17 +1,12 @@
-### Hi there 👋
+🎓 **Master's student in Artificial Intelligence** at **Wrocław University of Science and Technology**  
+🌍 **Currently on an exchange** at **Instituto Superior Técnico (IST) in Lisbon**  
+📚 **Founder & Tutor at CODE CRUISE** – a company aimed at supporting IT students  
+🤖 **NLP & Computer Vision enthusiast**  
 
-            
-<!--
-**SzymonLeszkiewicz/SzymonLeszkiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 **Contact**
+- **Email:** szymon.leszkiewicz10@gmail.com  
+- **LinkedIn:** [linkedin.com/in/szymonleszkiewicz](https://www.linkedin.com/in/szymonleszkiewicz/)  
+- **Website:** [korepetycjeinformatyka.pl](https://korepetycjeinformatyka.pl/)
+  
